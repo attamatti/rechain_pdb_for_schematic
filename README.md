@@ -1,1 +1,0 @@
-# rechain_pdb_for_schematic
